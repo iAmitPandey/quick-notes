@@ -1,0 +1,15 @@
+.selected {
+    background-color: red;
+}
+
+.clicked {
+    background-color: rgb(88, 34, 34);
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}

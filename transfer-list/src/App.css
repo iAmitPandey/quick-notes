@@ -1,0 +1,25 @@
+ ul {
+     list-style: none;
+ }
+
+ .transfer-list {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+
+ .list-container {
+     width: 30vw;
+     height: 40vh;
+     border: 1px solid;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: flex-start;
+ }
+
+ .btn-container {
+     display: flex;
+     flex-direction: column;
+     margin: 2vw;
+ }
